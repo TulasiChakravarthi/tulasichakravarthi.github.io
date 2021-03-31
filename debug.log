@@ -1,0 +1,6 @@
+[1014/002046.001:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/122434.711:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/105059.331:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/204556.666:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/224706.416:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1021/001245.507:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\chakri\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0c118634-91b5-4a28-bee8-81f23412c740: The system cannot find the path specified. (0x3)
